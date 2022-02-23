@@ -1,0 +1,167 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The nonconformists relief prepared against the sessions of the next justices in London or in the country by a follower of peace, and lover of sincerity.</title>
+            <author>Humfrey, John, 1621-1719.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1678</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A45144</idno>
+            <idno type="STC">Wing H3695</idno>
+            <idno type="STC">ESTC R14156</idno>
+            <idno type="EEBO-CITATION">11843269</idno>
+            <idno type="OCLC">ocm 11843269</idno>
+            <idno type="VID">49797</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A45144)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 49797)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 498:18)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The nonconformists relief prepared against the sessions of the next justices in London or in the country by a follower of peace, and lover of sincerity.</title>
+                  <author>Humfrey, John, 1621-1719.</author>
+               </titleStmt>
+               <extent>[2], 5 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Walter Kettilby,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1678.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed: John Humfrey.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Dissenters, Religious --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-07</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:49797:1"/>
+            <pb facs="tcp:49797:1" rendition="simple:additions"/>
+            <p>THE NONCONFORMISTS RELIEF Prepared againſt the SESSIONS Of the Next JUSTICES In London or in the Country.</p>
+            <p>By a Follower of Peace, and Lover of Sincerity.</p>
+            <q>
+               <bibl>
+                  <hi>Rom. 13.1, 2.</hi>
+               </bibl>
+               <p>Let every ſoul be ſubject unto the higher Powers: For there is no Power but of God; the Powers that be, are or<g ref="char:EOLhyphen"/>dained of God.</p>
+               <p>Whoſoever therefore reſiſteth the Power, reſiſteth the Ordinance of God; and they that reſiſt, ſhall receive to themſelves damnation.</p>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Walter Kettilby</hi> at the <hi>Biſhops-Head</hi> in St. <hi>Paul</hi>'s <hi>Church-yard,</hi> 1678,</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:49797:2"/>
+            <pb n="1" facs="tcp:49797:2"/>
+            <head>THE NONCONFORMISTS <hi>RELIEF.</hi>
+            </head>
+            <p>WHereas there is an Oath required of every Non<g ref="char:EOLhyphen"/>conformiſt Preacher that lives in a Corporate Town, which hath been an occaſion of ſcruple, or of trouble to many, when really the contents thereof at the bottom are nothing elſe but the giving ſecurity to the State of our fidelity; I, who am one of the meaneſt among my Brethren, after ſome long conſideration of what is like to <hi>edify,</hi> or <hi>offend</hi> the moſt, do, upon the account of what is juſt and right, and not only what is prudent, (having firſt ſatisfied my doubts) humbly preſent my ſelf (though none of the firſt) to obey what is commanded.</p>
+            <p>For the due performance whereof, with a good conſcience, I will lay down my rule upon which I go, and I muſt then act according to it.</p>
+            <p>The rule I have to lay down for our ſubmiſſion to this and the like Impoſitions is, that foraſmuch as the Law is the <hi>Will</hi> of the Law-giver, or <hi>Declaration of his Will,</hi> we are to conſider impar<g ref="char:EOLhyphen"/>tially what the intent or purpoſe of the major part of the <hi>Parlia<g ref="char:EOLhyphen"/>ment</hi> (which conſiſts of the King and his two Houſes) is, or was, that we ſhould yield to, in our compliance with them in ſuch or ſuch an Impoſition, and if we can ſubmit to it in that ſenſe which we verily believe to be their mind or meaning, we are to do it: and if we cannot, we are to ſuffer. If we take their words in any ſenſe of our own, (though never ſo rational) which we believe in our conſciences is, or was not their meaning, we prevaricate with
+<pb n="2" facs="tcp:49797:3"/>the Law, and are profane or looſe in our obedience: and if we make any ſcruples which our conſcience tells us are beſides their purpoſe, or not to be made in equity according to their mind or meaning, we are injurious to the Law-giver, and ought to lay down ſuch hard conſtructions. Here is the true latitude (or <hi>Middle way</hi>) we are to walk in, in our reſolution of ſuch caſes.</p>
+            <p>This rule therefore being laid, I muſt do two things for the pra<g ref="char:EOLhyphen"/>ctice of it. I muſt firſt give the ſenſe of the Oath according to what I ſincerely believe to be the intent of the Impoſers, without wrong unto them, or my own underſtanding: and I muſt then ap<g ref="char:EOLhyphen"/>ply my ſelf to the taking of it. Only I muſt carefully premiſe this, for avoiding all offence to the Higher Powers, that I do not take upon me (as no one can) to put a meaning on the Oath, which I know I muſt take in <hi>theirs;</hi> or to determine and ſay, <hi>This is their meaning:</hi> but to ſay, <hi>I believe</hi> this to be their meaning, which is neceſſary to determine for my own ſelf, that I may <hi>act in Faith</hi> in what I do.</p>
+            <p>For the true ſenſe then, or interpretation of this Oath, here are three parts or clauſes of it.</p>
+            <p>The firſt part is, <hi>I ſwear that it is not lawful to take arms againſt the King upon any pretence whatſoever.</hi> In which clauſe we are to conceive in the firſt place (as I am ſatisfied for my ſelf) ſome ſuch words as [<hi>I hold,</hi> or, <hi>I believe</hi>] are to be underſtood, which may appear from ſome other Act where they are ſupplied in the like Impoſition, <hi>I ſwear that I hold it unlawful to take arms againſt the King;</hi> and in the next place by the words <hi>
+                  <g ref="char:V">Ʋ</g>pon any pretence whatſoever,</hi> as we are to underſtand no leſs doubt<g ref="char:EOLhyphen"/>leſly than upon any cauſe, or in any caſe, <hi>
+                  <g ref="char:V">Ʋ</g>lla ex cauſa;</hi> ſo we are not to ſcrew up thoſe words ſo high, as if no caſe or caſes could be invented to put exception againſt the <hi>univerſality</hi> of the pro<g ref="char:EOLhyphen"/>poſition, but that there is no ſuch caſe or caſes obvious, ſo as to come into the mind of the Law-maker, (and no ſuch conſe<g ref="char:EOLhyphen"/>quently as by the intent of the Law we ſhould object to our ſelves in the taking this Oath,) or no ſuch to be put with regard to <hi>our</hi> King; ſo that if this poſition be received by us as it is ſtated and held by the moſt learned Aſſertors of the power of
+<pb n="3" facs="tcp:49797:3"/>Princes, and maintainers of this Tenet it ſelf, we are to conceive it their minds we ſhould yield to it as <hi>indefinitely</hi> true, without nicety, and too ſcrupulous a diſquiſition. I will explain my ſelf a little further. This poſition may relate either to the <hi>Kingly Power</hi> in general, or to the <hi>Perſon of the King.</hi> As it relates to the <hi>former,</hi> it ſuffices to the meaning that we hold it as others againſt rebellion have maintained it. That is, I ſuppoſe, the <hi>Ma<g ref="char:EOLhyphen"/>jority of Voters</hi> (if their minds could be asked) would deſire no more of us. As it relates to the latter, I believe the meaning to be no leſs than this, that there is no caſe to be put, or no cauſe in the earth to be found out, that will warrant our taking arms againſt our preſent Soveraign <hi>Charles</hi> the Second. And this I heartily be<g ref="char:EOLhyphen"/>lieve, and am ready to ſwear to it.</p>
+            <p>The ſecond part is, <hi>And I do abhor that traiterous poſition of taking arms by the authority of the King againſt his Perſon, or any commiſſionated by him.</hi> In this clauſe I underſtand by the word, <hi>abhor;</hi> in the cool ſenſe, <hi>I diſclaim,</hi> and I count the Poſition <hi>traiterous</hi> if it be uſed to rebellion: But it is not, I ſuppoſe, once to be conceived, that it was the intent of the Parliament, (the moſt of the Members) or of his Majeſty himſelf, to advance any arbi<g ref="char:EOLhyphen"/>trary Commiſſions above <hi>Law</hi> in any point by theſe words; and conſequently that by thoſe commiſſionated by him, we muſt under<g ref="char:EOLhyphen"/>ſtand ſuch only as are <hi>Legally</hi> Commiſſionated, and in the <hi>Legal purſuit of ſuch Commiſſions.</hi> A Commiſſion not Legal is no Commiſ<g ref="char:EOLhyphen"/>ſion, and no man can be juſtified if he act otherwiſe than his Com<g ref="char:EOLhyphen"/>miſſion. And by this interpretation only, which I am fully per<g ref="char:EOLhyphen"/>ſwaded (upon the account mentioned) was the ſenſe of the Law-giver, are the moſt material objections taken off, that have been alledged againſt this Oath by any. And fit advice alſo hath been taken in the whole caſe.</p>
+            <p>The third part is, <hi>And that I will not at any time endeavour any alteration of Government either in Church or State.</hi> In this clauſe, By <hi>Government,</hi> we muſt underſtand, out of doubt, the preſent Government, and that only; which in the <hi>State</hi> is Monarchy, in the <hi>Church</hi> Epiſcopacy: And we are not to imagine that it was the intent of this Act to deprive any Engliſh man of his free-born
+<pb n="4" facs="tcp:49797:4"/>right, to chooſe Parliament Men whom he thinks meeteſt, to inform them of our grievances, to petition them, and to concur with them as our Repreſentatives (which vertually we muſt needs do) in every Act that paſſes for the repealing old Laws, and making now, and conſequently if it ſhould ſeem good to the Parliament to make any reformation of Religion, ſo long as it were carried on in an orderly way by the conſent of the King and the two Houſes, there is nothing in ſuch an <hi>Endeavour</hi> of any man <hi>in his place and calling</hi> but what is warranted by the fundamental Conſtitution of the Realm; ſo that by this Endeavour here abjured, we muſt un<g ref="char:EOLhyphen"/>derſtand ſuch an Endeavour only as is not warrantable by the Conſtitution. Such an Endeavour we may ſuppoſe the Parliament intended as was uſed in the late times, when they went about to remove Epiſcopacy without the conſent of the King, and againſt it. Such an Endeavour we abjure. That is, we will not endeavour by any means at all to remove the King from his Throne, becauſe the Conſtitution of the Land is to be governed by a Monarch, and we will not endeavour to alter Epiſcopacy, or reform the Church in any way or manner, but what is warrantable by the Law of the Nation; that is, by a Convocation, or Act of Parliament.</p>
+            <p>This is what I believe to be the true meaning of the Impoſer; and in this meaning I thank God, that with a conſcience fully per<g ref="char:EOLhyphen"/>ſwaded, and an honeſt intention to the Publick, as to my ſelf, I do addreſs my ſelf to the words enſuing.</p>
+            <p>J. A. B. <hi>do ſwear that it is not lawful to take arms againſt the King upon any pretence whatſoever: and that I do abhor that traiterous Poſition of taking arms by the authority of the King againſt his Perſon, or againſt thoſe that are commiſſionated by him in the Purſuance of ſuch Commiſſions: And that I will not at any time endeavour any alteration of Government either in Church or State.</hi>
+            </p>
+            <closer>
+               <signed>JOHN HUMFREY.</signed>
+            </closer>
+         </div>
+         <div type="to_the_reader">
+            <pb n="5" facs="tcp:49797:4"/>
+            <opener>
+               <salute>Reader,</salute>
+            </opener>
+            <p>
+               <hi>I</hi> Bleſs God I have a good conſcience in Printing this Paper. I am ſenſible into how many ſtreights many Miniſters, and many good Men in ſeveral Corporations have been, and may be ſtill brought, in regard to this Oath, or ſome like it. If there be difference, every man who is concerned, is to look to his own conſcience. I have laid him down his Rule, and he is to be true to it, and to his own Soul; and if he be in doubt in any point, he muſt forbear. For my own part, I am ſo well ſatisfied about this Oath, that although I ſee not the <hi>Ends</hi> of Divine Providence in the general affairs of my life, who am one ſtill on the wrong ſide of the hedge; yet do I not think my ſelf <hi>born</hi> into the world <hi>to no purpoſe,</hi> ſo long as I have lived to do this. A matter ſo ſmall (I count) in it ſelf, and yet ſo momentous in regard to the Publick; in the ſecurity of the Government, and the quiet of honeſt people. I do not ſubſcribe my Name as one now actually ſwearing to the Oath, but as the Author of the Paper. But I intend to take this Oath for ought I know to chooſe, whether I need it or no, and much more if I do need it, after I have publiſhed thus much; unleſs I ſee more reaſon than now to the contrary. The ſum of the matter is, I am content for my own part to engage my ſelf to have no hand in any rebellion, whatſoever happens; I am reſolved upon it, I will be no Rebel by the Grace of God.</p>
+            <closer>
+               <signed>J. H.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
